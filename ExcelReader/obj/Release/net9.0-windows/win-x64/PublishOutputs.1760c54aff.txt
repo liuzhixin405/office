@@ -1,0 +1,2 @@
+G:\github\office\publish\ExcelReader.pdb
+G:\github\office\publish\ExcelReader.exe

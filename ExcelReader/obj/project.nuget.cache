@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "yO/x3oxt4BU=",
+  "success": true,
+  "projectFilePath": "G:\\github\\office\\ExcelReader\\ExcelReader.csproj",
+  "expectedPackageFiles": [
+    "D:\\NuGetPackages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",
+    "D:\\NuGetPackages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "D:\\NuGetPackages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "D:\\NuGetPackages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.net.illink.tasks\\9.0.14\\microsoft.net.illink.tasks.9.0.14.nupkg.sha512",
+    "D:\\NuGetPackages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.netcore.app.runtime.win-x64\\9.0.14\\microsoft.netcore.app.runtime.win-x64.9.0.14.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.14.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.14\\microsoft.aspnetcore.app.runtime.win-x64.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
