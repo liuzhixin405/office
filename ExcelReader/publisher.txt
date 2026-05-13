@@ -1,0 +1,1 @@
+cd "office/ExcelReader" && dotnet publish -c Release -r win-x64 --self-contained -p:PublishSingleFile=true -p:EnableCompressionInSingleFile=true -o ../publish 2>&1
